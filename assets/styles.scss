@@ -10,8 +10,8 @@ $logo: url("{{ '/assets/logo.png' | absolute_url }}");
 
 /* text */
 
-$body-font:       'Open Sans', 'sans-serif';
-$heading-font:    'Open Sans', 'sans-serif';
+$body-font:       'GraphikRegular', 'sans-serif';
+$heading-font:    'GraphikRegular', 'sans-serif';
 
 
 /* Image Size */
@@ -49,3 +49,15 @@ font & asset import
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
 @import 'wax';
+
+/* || Pratt typography */
+
+@font-face {
+    font-family: "GraphikMedium";
+    src: url(https://www.pratt.edu/wp-content/themes/pratt-main/dist/fonts/Graphik-Bold-Web.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "GraphikRegular";
+    src: url(https://www.pratt.edu/wp-content/themes/pratt-main/dist/fonts/Graphik-Regular-Web.woff2) format("woff2");
+}
