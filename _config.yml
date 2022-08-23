@@ -141,6 +141,13 @@ menu:
 #
 
 footer:
+  links:
+    - label: 'Digital Exhibits'
+      link: 'https://specialcollections.pratt.edu'
+    - label: 'Institute Libraries'
+      link: 'https://library.pratt.edu'
+    - label: 'Contact'
+      link: 'https://gitter.im/minicomp/wax/'
   logos:
     - img: '/img/logo.png'
 
