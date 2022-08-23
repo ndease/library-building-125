@@ -18,11 +18,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
+title:            '125th Anniversary'
+description:      'Celebrating 125 Years of the Library Building'
 url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+baseurl:          '/125-anniversary'
+copyright:        'Pratt Institute Libraries, 2022'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -67,7 +67,7 @@ collections:
     output: true
   125Exhibit: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'anniversary_item' # the layout for the pages to use
     metadata:
       source: '125Exhibit.csv' # path to the metadata file within `_data`
     images:
@@ -110,26 +110,30 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
+  - label: 'Explore'
     sub:
-      - label: 'Wax'
-        link: '/about/'
-      - label: 'Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
-      - label: 'Credits'
-        link: '/credits/'
-  - label: 'Exhibits'
-    sub:
-      - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
+      - label: 'Pratt Institute Free Library'
+        link: '/explore/pratt-institute-free-library/'
+      - label: 'A New Home for the Library'
+        link: '/explore/a-new-home-for-the-library/'
+      - label: 'The Library School'
+        link: '/explore/the-library-school/'
+      - label: 'The Library Museum'
+        link: '/explore/the-library-museum/'
+      - label: "The Children's Reading Room and Library Park"
+        link: '/explore/the-childrens-reading-room-and-library-park/'
+      - label: 'A New Era For the Library'
+        link: '/explore/a-new-era-for-the-library/'
+      - label: 'Renovations to the Library Building'
+        link: '/explore/renovations-to-the-library-building/'
+      - label: 'The Centennial'
+        link: '/explore/the-centennial/'
+      - label: 'The Libraries Today'
+        link: '/explore/the-libraries-today/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -137,13 +141,6 @@ menu:
 #
 
 footer:
-  links:
-    - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
-    - label: 'Credits'
-      link: '/credits'
-    - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
   logos:
     - img: '/img/logo.png'
 
