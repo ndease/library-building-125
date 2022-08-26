@@ -25,4 +25,4 @@ This postcard from 1909 shows the location of the library classrooms. The interi
 
 {% include inline_image.html collection='125Exhibit' pid='179275' %}
 
-[Proceed to The Library Museum](../the-library-museum)
+<a class="next-exhibit" href="../the-library-museum">Proceed to The Library Museum<img src="../../assets/openseadragon/images/next_hover.png" alt=""></a>

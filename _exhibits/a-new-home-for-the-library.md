@@ -25,4 +25,4 @@ The floors of the book stacks were made by the Tiffany Glass and Decorating Comp
 
 {% include inline_image.html collection='125Exhibit' pid='208695' %}
 
-[proceed to The Library School](../the-library-school)
+<a class="next-exhibit" href="../the-library-school">proceed to The Library School<img src="../../assets/openseadragon/images/next_hover.png" alt=""></a>

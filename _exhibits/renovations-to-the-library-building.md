@@ -30,4 +30,4 @@ The second renovation occurred in the 2000s when the air conditioning system was
 
 {% include inline_image.html collection='125Exhibit' pid='MMS2011' %}
 
-[Proceed to The Centennial](../the-centennial)
+<a class="next-exhibit" href="../the-centennial">Proceed to The Centennial<img src="../../assets/openseadragon/images/next_hover.png" alt=""></a>

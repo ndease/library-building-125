@@ -16,4 +16,4 @@ A portrait of library staff was taken to commemorate the work of Pratt librarian
 
 {% include inline_image.html collection='125Exhibit' pid='208711' %}
 
-[Proceed to The Libraries Today](../the-libraries-today)
+<a class="next-exhibit" href="../the-libraries-today">Proceed to The Libraries Today<img src="../../assets/openseadragon/images/next_hover.png" alt=""></a>

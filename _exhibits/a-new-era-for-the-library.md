@@ -20,4 +20,4 @@ From booklifts in the early 1900s to the implementation of the online catalog sy
 
 {% include inline_image.html collection='125Exhibit' pid='208692' %}
 
-[Proceed to Renovations to the Library Building](../renovations-to-the-library-building)
+<a class="next-exhibit" href="../renovations-to-the-library-building">Proceed to Renovations to the Library Building<img src="../../assets/openseadragon/images/next_hover.png" alt=""></a>

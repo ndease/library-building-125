@@ -61,3 +61,16 @@ font & asset import
     font-family: "GraphikRegular";
     src: url(https://www.pratt.edu/wp-content/themes/pratt-main/dist/fonts/Graphik-Regular-Web.woff2) format("woff2");
 }
+
+a.next-exhibit{
+  background-color:black;
+  display:inline-block;
+  padding:1.3em;
+  font-size:1.2em;
+  border-radius:50px;
+  color:white;
+}
+
+a.next-exhibit:hover{
+  color: #ffce2e;
+}

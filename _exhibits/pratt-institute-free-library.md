@@ -30,4 +30,4 @@ On opening day, the reading room had 150 periodicals, a collection of encycloped
 
 {% include inline_image.html collection='125Exhibit' pid='179711' %}
 
-[proceed to A New Home for the Library](../a-new-home-for-the-library)
+<a class="next-exhibit" href="../a-new-home-for-the-library">proceed to A New Home for the Library<img src="../../assets/openseadragon/images/next_hover.png" alt=""></a>

@@ -16,4 +16,4 @@ The new library building included a dedicated gallery space located on the third
 
 {% include inline_image.html collection='125Exhibit' pid='198911' %}
 
-[Proceed to The Children's Reading Room](../the-childrens-reading-room-and-library-park)
+<a class="next-exhibit" href="../the-childrens-reading-room-and-library-park">Proceed to The Children's Reading Room<img src="../../assets/openseadragon/images/next_hover.png" alt=""></a>

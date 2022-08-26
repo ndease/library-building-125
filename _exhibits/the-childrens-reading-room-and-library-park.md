@@ -23,4 +23,4 @@ The Library Park took up most of the block between Ryerson and Hall Streets, and
 
 {% include inline_image.html collection='125Exhibit' pid='179281' %}
 
-[Proceed to A New Era for the Library](../a-new-era-for-the-library)
+<a class="next-exhibit" href="../a-new-era-for-the-library">Proceed to A New Era for the Library<img src="../../assets/openseadragon/images/next_hover.png" alt=""></a>
